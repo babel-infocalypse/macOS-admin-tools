@@ -1,4 +1,5 @@
 #!/bin/bash
+# Written by Tully Jagoe 12/10/24
 
 appName="$(basename "${1}" .app)"
 iconStore="${2}"
